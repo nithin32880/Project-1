@@ -1,4 +1,3 @@
 Hello!
 This is just a Cloud DevOps project.
 :)
-This is just to learn the process of integration of jenkins and github
